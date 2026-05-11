@@ -32,7 +32,7 @@ A robust, object-oriented desktop application built with Python. Designed for ri
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/DIP-Interactive-Lab.git](https://github.com/your-username/DIP-Interactive-Lab.git)
+git clone [https://github.com/your-username/DIP-Interactive-Lab.git](https://github.com/hazemelhfnawy/DIP-Interactive-Lab.git)
 cd DIP-Interactive-Lab
 ```
 **2. Install dependencies:**
